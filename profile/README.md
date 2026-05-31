@@ -9,3 +9,7 @@ It has MindMap generation and Revision with AI built-in.
 ```
 
 ## Installation
+
+## Attribution
+
+Logo - <a href="https://www.flaticon.com/free-icons/knowledge" title="knowledge icons">Knowledge icons created by Smashicons - Flaticon</a>
